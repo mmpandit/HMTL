@@ -1,2 +1,2 @@
-# HMTL
+# HTML
 My HTML Pages
